@@ -26,6 +26,5 @@
 
 - 🔭 I’m currently working with Front-End
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on
 - 📫 How to reach me: dev.sapucaia@gmail.com
 
