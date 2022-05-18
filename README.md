@@ -27,6 +27,6 @@
   
 
 - 🔭 I’m currently working with Front-End
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript, Gatsby, VTEX.IO
 - 📫 How to reach me: dev.sapucaia@gmail.com
 
