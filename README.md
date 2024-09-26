@@ -24,6 +24,8 @@
   </div>
   
   ![snake gif](https://github.com/Daycross/Daycross/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
   
 
 - 🔭 I’m currently working with Front-End
